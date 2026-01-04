@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav{
+background-color: black;
+color: white;
+padding: 10px;
+margin: 5px;
+
+}
+ul,li{
+    display: inline-block;
+    
+    text-decoration: none;
+    
+    
+}
+h1{
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+ul{
+    margin-left: 60%;
+    text-decoration: underline:none;
+    
+}
+li{
+    padding-left: 25px;
+    cursor: pointer;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+   
+    
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+input{
+    width: 20%;
+    padding: 3px;
+    margin-left:35%;
+    display: inline-block;
+    
+    
+}
+.search{
+    padding: 15px;
+    display: inline-block;
+    
+}
+.hea{
+    text-align: center;
+    padding: 10px;
+    font-family:  sans-serif;
+}
+.rt{
+    display: inline-block;
+    border: 2px,black,solid;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.p2{
+    width: 220px;
+    height: 220px;
+    margin-left: 4px;
+    
+}
+
+.rt2{
+    display: inline-block;
+    border: 2px,black,solid;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.rt3{
+    display: inline-block;
+    border: 2px,black,solid;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.rt4{
+    display: inline-block;
+    border: 2px,black,solid;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
